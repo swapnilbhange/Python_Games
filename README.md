@@ -1,2 +1,2 @@
-# ubiquitous-rotary-phone
+# Pyhton Games
 In this Repository i will be posting games created using python...
